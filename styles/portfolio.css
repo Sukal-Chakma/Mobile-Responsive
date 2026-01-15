@@ -339,11 +339,11 @@ nav .menu{
 #banner{
     margin: 20px;
     flex-direction: column;
-    gap: 40px;
+    gap: 20px;
     text-align: center;
 }
 #banner .banner-content h1{
-    font-size: 60px;
+    font-size: 44px;
 }
 #banner .banner-image img{
     width: 100%;
