@@ -346,7 +346,7 @@ nav .menu{
     font-size: 44px;
 }
 #banner .banner-image img{
-    width: 100%;
+    width: 95%;
 }
 .btn-group{
     display: flex;
@@ -355,7 +355,7 @@ nav .menu{
     justify-content: center;
 }
 header {
-    
+    justify-content: center;
     background: url(../images/header_bg.png), #FFF8F3;
     background-position: bottom right;
     background-repeat: no-repeat;
